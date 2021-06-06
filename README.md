@@ -1,2 +1,2 @@
 # curdexample
-curd operation using django
+curd operation using django ok
